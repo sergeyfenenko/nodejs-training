@@ -1,3 +1,7 @@
+#Custom ignores
+.vscode
+bin
+csv/*.json
 # Logs
 logs
 *.log
